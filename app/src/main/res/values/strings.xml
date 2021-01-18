@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Ismat Jafarli</string>
+    <string name="my_bio">Hello, my name is Ismat. I am a student at Baku Engineering university
+    \n\nThis post is all about my journey through Android development which has taught me many lessons.
+    I am writing this article because it could be helpful to many people out there who are facing problems like me.
+    <u><i>Back in 2014, July 7th, I had my first job as an Android developer.</i></u>
+    It would be exciting for almost everyone on the first day of a job career. Same with me.
+    I was so excited with many questions in mind, like how the company was going to be.
+
+    </string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_deccription">Android tobot image</string>
+    <string name="auto_fill_hints">classical guitar</string>
+</resources>
